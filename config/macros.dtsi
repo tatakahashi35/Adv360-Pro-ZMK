@@ -1,6 +1,6 @@
-macro_^space: macro_^space{
+macro_ctrl_space: macro_ctrl_space{
 compatible = "zmk,behavior-macro";
-label = "macro_^space";
+label = "macro_ctrl_space";
 #binding-cells = <0>;
 bindings = <&kp RCTRL>, <&kp SPACE>;
 };
